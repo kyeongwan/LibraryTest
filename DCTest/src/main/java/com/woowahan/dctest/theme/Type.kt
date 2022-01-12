@@ -1,4 +1,4 @@
-package kr.kyeongwan.designsystemtest.ui.theme
+package com.woowahan.dctest.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle

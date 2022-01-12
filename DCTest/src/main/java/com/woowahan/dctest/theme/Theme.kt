@@ -1,4 +1,4 @@
-package kr.kyeongwan.designsystemtest.ui.theme
+package com.woowahan.dctest.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme

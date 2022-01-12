@@ -1,4 +1,4 @@
-package kr.kyeongwan.designsystemtest.ui.theme
+package com.woowahan.dctest.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes
